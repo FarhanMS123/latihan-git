@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 my day 
 sample2 
 sample2 
 adhkjashdkj 
+=======
+my day
+samhellldsfdsf
+sdjhkdkfjsdkjfhksd
+>>>>>>> bc690d8edfab09e9d41a1d7a03f7d9797000b32b
